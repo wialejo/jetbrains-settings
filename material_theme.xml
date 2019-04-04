@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="rightTreeIndent" value="6" />
     <option name="userId" value="1c8f244:169d7410d6f:-8000" />
     <option name="version" value="3.8.0.2" />
   </component>
