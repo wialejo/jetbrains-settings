@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/pymesco-fe/src/app/layout/navbar/navbar.component.scss" timestamp="1554693959863" />
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pymesco-fe/src/app/quotations/shared/quotation.service.ts" timestamp="1554780343583" />
+      <file name="$USER_HOME$/Projects/pymesco-fe/src/environments/environment.ts" timestamp="1554780041281" />
+      <file name="$USER_HOME$/Projects/pymesco-fe/src/app/shared/user.service.ts" timestamp="1554780402569" />
     </filemarks>
     <jumps />
     <registers />
