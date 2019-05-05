@@ -6,12 +6,16 @@
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pymesco-fe/src/app/quotations/shared/quotation.service.ts" timestamp="1554780343583" />
-      <file name="$USER_HOME$/Projects/pymesco-fe/src/environments/environment.ts" timestamp="1554780041281" />
-      <file name="$USER_HOME$/Projects/pymesco-fe/src/app/shared/user.service.ts" timestamp="1554780402569" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>settings</text>
+      </register>
+      <register name="-" type="4">
+        <text>settings</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
