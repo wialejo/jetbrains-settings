@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="cache" type="Cache file" />
+      <mapping pattern="UserController" type="PHP" />
+      <mapping pattern="cotizaciones" type="PLAIN_TEXT" />
+      <mapping pattern="UserController.php" type="PLAIN_TEXT" />
+      <mapping pattern="sda" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
+      <removed_mapping ext="cache" type="Cache file" />
+    </extensionMap>
+  </component>
+</application>
