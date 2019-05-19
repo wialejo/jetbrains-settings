@@ -2,14 +2,36 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/JavaScript Console" timestamp="1554169761157">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pymesco-fe/src/app/pymesco-v1/pymesco-v1.component.ts" timestamp="1557046835828">
+        <mark key="[" line="34" column="9" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
+      </register>
+      <register name="-" type="4">
+        <text>settings</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
