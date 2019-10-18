@@ -3,16 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1571292122009">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/C# Console" timestamp="1571290968369">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pymesco dotnet/pymesco.api/Controllers/Configuration/ContactsController.cs" timestamp="1558671751727" />
-      <file name="$USER_HOME$/Projects/pymesco dotnet/pymesco.api/Controllers/Configuration/CategoriesController.cs" timestamp="1558671514207" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Core/Modelo/Contexto.cs" timestamp="1571385047808" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1571306781496">
+        <mark key="'" line="100" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/pymesco-fe/src/app/pymesco-v1/pymesco-v1.component.ts" timestamp="1557046835828">
         <mark key="[" line="34" column="9" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="100" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+    </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
@@ -34,6 +44,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
