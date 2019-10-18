@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1571292122009">
@@ -12,8 +12,7 @@
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Core/Modelo/Contexto.cs" timestamp="1571385047808" />
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1571403711857">
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1571403873486">
         <mark key="'" line="100" column="11" />
         <mark key="[" line="107" column="79" />
         <mark key="]" line="107" column="79" />
