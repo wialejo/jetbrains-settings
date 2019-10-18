@@ -13,8 +13,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Core/Modelo/Contexto.cs" timestamp="1571385047808" />
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1571306781496">
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1571403711857">
         <mark key="'" line="100" column="11" />
+        <mark key="[" line="107" column="79" />
+        <mark key="]" line="107" column="79" />
+        <mark key="." line="107" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/pymesco-fe/src/app/pymesco-v1/pymesco-v1.component.ts" timestamp="1557046835828">
         <mark key="[" line="34" column="9" />
@@ -28,10 +31,10 @@
         <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>E</text>
       </register>
     </registers>
     <search>
