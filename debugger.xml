@@ -7,6 +7,8 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="processExceptionsOutsideMyCode" value="true" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
