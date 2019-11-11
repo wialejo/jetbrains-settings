@@ -5,4 +5,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
   </action>
+  <action id="RiderUnitTestRunCurrentSessionAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="y" />
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>
