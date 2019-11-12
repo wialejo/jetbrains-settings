@@ -6,10 +6,28 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="TouchBarDefaultOptionalGroup" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
@@ -18,19 +36,25 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RiderUnitTestRunCurrentSessionAction" is_action="true" action_type="1" position="1">
+    <group value="Console.Jdbc.Execute" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="BuildSolutionAction" is_action="true" action_type="1" position="2">
+    <group value="RenameElement" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="3">
+    <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderUnitTestRunCurrentSessionAction" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -42,7 +66,19 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="1" position="4">
+    <group value="BuildSolutionAction" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.Jdbc.Execute" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
