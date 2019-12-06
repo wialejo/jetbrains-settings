@@ -1,36 +1,13 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://fuji.sincoerp.com/T1_SincoSG/_git/SGD" />
-          <option name="serverUri" value="https://fuji.sincoerp.com" />
-          <option name="userId" value="042a2958-cffd-4a77-b9de-b86187be2b8d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;91bfa74d-516d-4a71-9e50-50c0c01097ff&quot;,&quot;name&quot;:&quot;T1_SincoSG&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/_apis/projectCollections/91bfa74d-516d-4a71-9e50-50c0c01097ff&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Sistema de gestión documental&quot;,&quot;id&quot;:&quot;0804f860-41c6-4813-bddf-4b22952699da&quot;,&quot;name&quot;:&quot;SGD&quot;,&quot;revision&quot;:97,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_apis/projects/0804f860-41c6-4813-bddf-4b22952699da&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;a49976b9-1d84-4c3f-88c2-54d20ee5c778&quot;,&quot;name&quot;:&quot;SGD&quot;,&quot;remoteUrl&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_git/SGD&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_apis/git/repositories/a49976b9-1d84-4c3f-88c2-54d20ee5c778&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Sistema de gestión documental&quot;,&quot;id&quot;:&quot;0804f860-41c6-4813-bddf-4b22952699da&quot;,&quot;name&quot;:&quot;SGD&quot;,&quot;revision&quot;:97,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_apis/projects/0804f860-41c6-4813-bddf-4b22952699da&quot;}}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="042a2958-cffd-4a77-b9de-b86187be2b8d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;91bfa74d-516d-4a71-9e50-50c0c01097ff&quot;,&quot;name&quot;:&quot;T1_SincoSG&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/_apis/projectCollections/91bfa74d-516d-4a71-9e50-50c0c01097ff&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Sistema de gestión documental&quot;,&quot;id&quot;:&quot;0804f860-41c6-4813-bddf-4b22952699da&quot;,&quot;name&quot;:&quot;SGD&quot;,&quot;revision&quot;:97,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_apis/projects/0804f860-41c6-4813-bddf-4b22952699da&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;a49976b9-1d84-4c3f-88c2-54d20ee5c778&quot;,&quot;name&quot;:&quot;SGD&quot;,&quot;remoteUrl&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_git/SGD&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_apis/git/repositories/a49976b9-1d84-4c3f-88c2-54d20ee5c778&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Sistema de gestión documental&quot;,&quot;id&quot;:&quot;0804f860-41c6-4813-bddf-4b22952699da&quot;,&quot;name&quot;:&quot;SGD&quot;,&quot;revision&quot;:97,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://fuji.sincoerp.com/T1_SincoSG/_apis/projects/0804f860-41c6-4813-bddf-4b22952699da&quot;}}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="WorkItemsTab.autoRefresh" />
           <option name="value" value="true" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
       </array>
     </option>
