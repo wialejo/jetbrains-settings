@@ -9,6 +9,11 @@
       <file name="/C# Console" timestamp="1571290968369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Dominio/RegistroExpedientes/Contratos/CrearExpedienteContratoPorObraServicios.cs" timestamp="1577444902661">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,16 +29,20 @@
     </filemarks>
     <jumps>
       <jump line="100" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+      <jump line="48" column="53" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Aplicacion/ObtenerExpedientes/Contrato/ObtenerExpedientesContrato.cs" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
@@ -42,13 +51,21 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>Q</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
