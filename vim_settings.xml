@@ -28,6 +28,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/ParametrosSesionDesarrollo.cs" timestamp="1588569954892">
+        <mark key="[" line="84" column="15" />
+      </file>
       <file name="/Dummy.txt" timestamp="1571292122009">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,6 +52,13 @@
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588569931392">
+        <mark key="'" line="369" column="16" />
+        <mark key="[" line="355" column="49" />
+        <mark key="]" line="356" column="16" />
+        <mark key="." line="356" column="15" />
+        <mark key="^" line="356" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1571403873486">
         <mark key="'" line="100" column="11" />
         <mark key="[" line="107" column="79" />
@@ -63,21 +73,30 @@
       <jump line="100" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
       <jump line="48" column="53" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Aplicacion/ObtenerExpedientes/Contrato/ObtenerExpedientesContrato.cs" />
       <jump line="48" column="0" filename="$USER_HOME$/Formacion/leetCodeChallenge/leetCodeChallenge.web/test/ValidParenthesisString.js" />
+      <jump line="355" column="58" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
+      <jump line="347" column="12" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
+      <jump line="369" column="16" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXI=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">PA==</text>
       </register>
     </registers>
   </component>
