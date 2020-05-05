@@ -4,7 +4,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>d</entry>
+      </history-search>
       <history-cmd>
         <entry>Q</entry>
       </history-cmd>
@@ -31,7 +33,7 @@
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/ParametrosSesionDesarrollo.cs" timestamp="1588569954892">
         <mark key="[" line="84" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571292122009">
+      <file name="/Dummy.txt" timestamp="1588690820023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Formacion/leetCodeChallenge/leetCodeChallenge.web/test/ValidParenthesisString.js" timestamp="1587086191588">
@@ -65,6 +67,13 @@
         <mark key="]" line="107" column="79" />
         <mark key="." line="107" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/CorrespondenciaController.cs" timestamp="1588691631932">
+        <mark key="'" line="238" column="83" />
+        <mark key="[" line="237" column="97" />
+        <mark key="]" line="237" column="129" />
+        <mark key="^" line="250" column="60" />
+        <mark key="." line="237" column="97" />
+      </file>
       <file name="$USER_HOME$/Projects/pymesco-fe/src/app/pymesco-v1/pymesco-v1.component.ts" timestamp="1557046835828">
         <mark key="[" line="34" column="9" />
       </file>
@@ -76,10 +85,14 @@
       <jump line="355" column="58" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
       <jump line="347" column="12" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
       <jump line="369" column="16" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
+      <jump line="239" column="83" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/CorrespondenciaController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5Ub0xpc3QoKTs=</text>
+      </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXI=</text>
       </register>
@@ -87,7 +100,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5Ub0xpc3QoKTs=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
@@ -96,18 +109,24 @@
         <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>o</text>
+      </register>
+      <register name="/" type="4">
+        <text>d</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>d</last-search>
+      <last-offset />
+      <last-pattern>d</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
