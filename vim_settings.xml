@@ -66,13 +66,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588776421312">
-        <mark key="[" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/ICompletarAsociacionComando.cs" timestamp="1588768062378">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="22" />
+      <file name="/Dummy.txt" timestamp="1588777341889">
+        <mark key="e" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" timestamp="1588775598563">
         <mark key="'" line="12" column="62" />
@@ -102,7 +98,6 @@
         <mark key="." line="103" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588776185650">
-        <mark key="'" line="369" column="16" />
         <mark key="[" line="355" column="49" />
         <mark key="]" line="355" column="49" />
         <mark key="." line="355" column="49" />
@@ -121,11 +116,6 @@
         <mark key="]" line="7" column="81" />
         <mark key="^" line="7" column="81" />
         <mark key="." line="7" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Entidades/DocumentoAdpro.cs" timestamp="1588770487694">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/IAsociacionDocumentoAdproCorrespondenciaComando.cs" timestamp="1588771711665" />
     </filemarks>
