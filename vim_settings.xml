@@ -6,6 +6,8 @@
     <history>
       <history-search>
         <entry>d</entry>
+        <entry>completar</entry>
+        <entry>comando</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -33,7 +35,7 @@
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/ParametrosSesionDesarrollo.cs" timestamp="1588569954892">
         <mark key="[" line="84" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588736595518">
+      <file name="/Dummy.txt" timestamp="1588755438554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Formacion/leetCodeChallenge/leetCodeChallenge.web/test/ValidParenthesisString.js" timestamp="1587086191588">
@@ -42,6 +44,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" timestamp="1588755413845">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="/C# Console" timestamp="1571290968369">
         <mark key="[" line="0" column="0" />
@@ -74,6 +83,12 @@
         <mark key="^" line="250" column="60" />
         <mark key="." line="237" column="97" />
       </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/CompletarTareaComando.cs" timestamp="1588756248677">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/pymesco-fe/src/app/pymesco-v1/pymesco-v1.component.ts" timestamp="1557046835828">
         <mark key="[" line="34" column="9" />
       </file>
@@ -86,6 +101,10 @@
       <jump line="347" column="12" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
       <jump line="369" column="16" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
       <jump line="239" column="83" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/CorrespondenciaController.cs" />
+      <jump line="4" column="9" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="15" column="63" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -94,41 +113,54 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5Ub0xpc3QoKTs=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXI=</text>
+        <text>/
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5Ub0xpc3QoKTs=</text>
+        <text encoding="base64">ICAgIGlmLw==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRvc0FkcHJvLlNlbGVjdChkID0+IG5ldyBkZXNjcnJpcHRvclZhbG9yRHRvKQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRvc0FkcHJvLlNlbGVjdChkID0+IG5ldyBkZXNjcnJpcHRvclZhbG9yRHRvKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXI=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">ICAgIGlmLw==</text>
       </register>
       <register name="/" type="4">
-        <text>d</text>
+        <text>comando</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>d</last-search>
+      <last-search>comando</last-search>
       <last-offset />
-      <last-pattern>d</last-pattern>
+      <last-pattern>comando</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
