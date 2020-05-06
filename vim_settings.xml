@@ -8,6 +8,9 @@
         <entry>d</entry>
         <entry>completar</entry>
         <entry>comando</entry>
+        <entry>codi</entry>
+        <entry>List</entry>
+        <entry>Idescrip</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -32,11 +35,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/ParametrosSesionDesarrollo.cs" timestamp="1588569954892">
-        <mark key="[" line="84" column="15" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588755438554">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/C# Console" timestamp="1571290968369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" timestamp="1588761919854">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" timestamp="1588762217258">
+        <mark key="'" line="27" column="50" />
+        <mark key="[" line="22" column="70" />
+        <mark key="]" line="22" column="71" />
+        <mark key="^" line="22" column="71" />
+        <mark key="." line="22" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/AgregarDescriptoresValoresComando.cs" timestamp="1588762090842" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/CorrespondenciaController.cs" timestamp="1588691631932">
+        <mark key="'" line="238" column="83" />
+        <mark key="[" line="237" column="97" />
+        <mark key="]" line="237" column="129" />
+        <mark key="^" line="250" column="60" />
+        <mark key="." line="237" column="97" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/ParametrosSesionDesarrollo.cs" timestamp="1588569954892">
+        <mark key="[" line="84" column="15" />
       </file>
       <file name="$USER_HOME$/Formacion/leetCodeChallenge/leetCodeChallenge.web/test/ValidParenthesisString.js" timestamp="1587086191588">
         <mark key="'" line="48" column="0" />
@@ -45,15 +73,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" timestamp="1588755413845">
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" timestamp="1588761624031">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="25" column="12" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="27" column="24" />
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="11" />
-      </file>
-      <file name="/C# Console" timestamp="1571290968369">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Dominio/RegistroExpedientes/Contratos/CrearExpedienteContratoPorObraServicios.cs" timestamp="1577444902661">
         <mark key="[" line="12" column="0" />
@@ -62,6 +87,12 @@
       </file>
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" timestamp="1588762323918">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588569931392">
         <mark key="'" line="369" column="16" />
@@ -76,16 +107,9 @@
         <mark key="]" line="107" column="79" />
         <mark key="." line="107" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/CorrespondenciaController.cs" timestamp="1588691631932">
-        <mark key="'" line="238" column="83" />
-        <mark key="[" line="237" column="97" />
-        <mark key="]" line="237" column="129" />
-        <mark key="^" line="250" column="60" />
-        <mark key="." line="237" column="97" />
-      </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/CompletarTareaComando.cs" timestamp="1588756248677">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="52" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/CompletarTareaComando.cs" timestamp="1588761953055">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="57" />
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="51" />
       </file>
@@ -105,54 +129,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
       <jump line="15" column="63" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="10" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="27" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" />
+      <jump line="45" column="23" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" />
+      <jump line="30" column="8" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5Ub0xpc3QoKTs=</text>
+      <register name="&quot;" type="4">
+        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
       </register>
-      <register name="1" type="4">
-        <text>/
-        }</text>
+      <register name="-" type="4">
+        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
+      </register>
+      <register name="/" type="4">
+        <text>Idescrip</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIERlc2NyaXB0b3JWYWxvciBDcmVhckRlc2NyaXB0b3JWYWxvcihEZXNjcmlwdG9yVmFsb3JEdG8gZGVzY3JpcHRvclZhbG9yRHRvKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvYmplY3QgQ3JlYXJEZXNjcmlwdG9yZXNWYWxvcmVzKERlc2NyaXB0b3JWYWxvckR0byBkZXNjcmlwdG9yZXNWYWxvcmVzRHRvKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGlmLw==</text>
-      </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGRlc2NyaXB0b3JlcyA9IGRvY3VtZW50b3NBZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsb3IgPSBkLklkLlRvU3RyaW5nKCksCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">by5TZWxlY3QoZCA9PiBuZXcgRGVzY3JpcHRvclZhbG9yRHRvKCkKICAgICAgICAgICAgICAgICAgICAgICAgew==</text>
+      </register>
+      <register name="4" type="4">
+        <text>/
+        }</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRvc0FkcHJvLlNlbGVjdChkID0+IG5ldyBkZXNjcnJpcHRvclZhbG9yRHRvKQoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRvc0FkcHJvLlNlbGVjdChkID0+IG5ldyBkZXNjcnJpcHRvclZhbG9yRHRvKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXI=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PgogIDwvbWF0LXNpZGVuYXY+CiAgPA==</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICAgIGlmLw==</text>
-      </register>
-      <register name="/" type="4">
-        <text>comando</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>comando</last-search>
+      <last-search>Idescrip</last-search>
       <last-offset />
-      <last-pattern>comando</last-pattern>
+      <last-pattern>Idescrip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
