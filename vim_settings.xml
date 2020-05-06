@@ -11,6 +11,8 @@
         <entry>codi</entry>
         <entry>List</entry>
         <entry>Idescrip</entry>
+        <entry>()</entry>
+        <entry>};</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -41,12 +43,12 @@
       <file name="/C# Console" timestamp="1571290968369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" timestamp="1588761919854">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" timestamp="1588762980062">
+        <mark key="'" line="15" column="65" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" timestamp="1588762217258">
         <mark key="'" line="27" column="50" />
@@ -80,10 +82,18 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Entidades/correspondencia.cs" timestamp="1588762358952">
+        <mark key="[" line="272" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Dominio/RegistroExpedientes/Contratos/CrearExpedienteContratoPorObraServicios.cs" timestamp="1577444902661">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarCorrespondenciaComando.cs" timestamp="1588762434562">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="18" column="9" />
       </file>
       <file name="/JavaScript Console" timestamp="1554169761157">
         <mark key="[" line="0" column="0" />
@@ -134,60 +144,66 @@
       <jump line="27" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" />
       <jump line="45" column="23" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" />
       <jump line="30" column="8" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" />
+      <jump line="9" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="15" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="11" column="129" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="14" column="65" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvcnJlc3BvbmRlbmNpYVJlcG9zaXRvcmk=</text>
       </register>
       <register name="-" type="4">
-        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvcnJlc3BvbmRlbmNpYVJlcG9zaXRvcmk=</text>
       </register>
       <register name="/" type="4">
-        <text>Idescrip</text>
+        <text>};</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIERlc2NyaXB0b3JWYWxvciBDcmVhckRlc2NyaXB0b3JWYWxvcihEZXNjcmlwdG9yVmFsb3JEdG8gZGVzY3JpcHRvclZhbG9yRHRvKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgSVJlcG9zaXRvcmlvR2VuZXJpY288RGVzY3JpcHRvclZhbG9yPiA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3QgQ3JlYXJEZXNjcmlwdG9yZXNWYWxvcmVzKERlc2NyaXB0b3JWYWxvckR0byBkZXNjcmlwdG9yZXNWYWxvcmVzRHRvKTsK</text>
+      <register name="1" type="4">
+        <text>o
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">X2NvcnJlc3BvbmRlbmNpYVJlcG9zaXRvcgogICAgICAgIA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIF9kZXNjcmlwdG9yZWQuaWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBvYmplY3QgQ3JlYXJEZXNjcmlwdG9yZXNWYWxvcmVzKERlc2NyaXB0b3JWYWxvckR0byBkZXNjcmlwdG9yZXNWYWxvcmVzRHRvKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGRlc2NyaXB0b3JlcyA9IGRvY3VtZW50b3NBZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsb3IgPSBkLklkLlRvU3RyaW5nKCksCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">by5TZWxlY3QoZCA9PiBuZXcgRGVzY3JpcHRvclZhbG9yRHRvKCkKICAgICAgICAgICAgICAgICAgICAgICAgew==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>/
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRvc0FkcHJvLlNlbGVjdChkID0+IG5ldyBkZXNjcnJpcHRvclZhbG9yRHRvKQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRvc0FkcHJvLlNlbGVjdChkID0+IG5ldyBkZXNjcnJpcHRvclZhbG9yRHRvKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXI=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Idescrip</last-search>
+      <last-search>};</last-search>
       <last-offset />
-      <last-pattern>Idescrip</last-pattern>
+      <last-pattern>};</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
