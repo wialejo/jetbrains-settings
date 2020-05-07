@@ -17,6 +17,7 @@
         <entry>sesio</entry>
         <entry>Documento</entry>
         <entry>sesion</entry>
+        <entry>mac</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -44,30 +45,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/IDesasociarDocumentoAdproCorrespondenciaComando.cs" timestamp="1588772758809">
-        <mark key="'" line="7" column="55" />
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="7" column="47" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/README.md" timestamp="1588840821722" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588842511182" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritariosController.js" timestamp="1588842043154" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/Adpro/AdproController.js" timestamp="1588841260989" />
+      <file name="/dummy.sql" timestamp="1588842805316">
+        <mark key="[" line="0" column="40" />
       </file>
-      <file name="/console" timestamp="1588771764748">
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/index.config.js" timestamp="1588840077994">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588840820041">
+        <mark key="e" line="0" column="9" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD/Procesos/Correspondencia/ActividadesPendientesV2.aspx" timestamp="1588773193965">
-        <mark key="[" line="1077" column="32" />
-        <mark key="]" line="1077" column="36" />
-        <mark key="." line="1077" column="32" />
-        <mark key="^" line="1077" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" timestamp="1588771766018">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588777341889">
-        <mark key="e" line="0" column="9" />
+      <file name="/configuracion [@127.0.0.1]" timestamp="1588842805315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" timestamp="1588775598563">
@@ -77,7 +72,9 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="29" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/AsociacionDocumentoAdproCorrespodnenciaComando.cs" timestamp="1588771469946" />
+      <file name="/SincoPlusDesarrollo.SGD.configuracion" timestamp="1588842805315">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" timestamp="1588775921574">
         <mark key="'" line="27" column="30" />
         <mark key="[" line="32" column="66" />
@@ -88,8 +85,15 @@
         <mark key="." line="26" column="80" />
         <mark key="^" line="26" column="81" />
       </file>
-      <file name="/" timestamp="1588773412173">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" timestamp="1588842812059">
+        <mark key="'" line="92" column="4" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Core/Migrations/202004061726595_Automatic.cs" timestamp="1588842388310">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/CorrespondenciaAcciones.http" timestamp="1588776673214">
         <mark key="'" line="92" column="0" />
@@ -97,8 +101,17 @@
         <mark key="]" line="103" column="5" />
         <mark key="." line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588776185650">
-        <mark key="[" line="355" column="49" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/ConfiguracionSvc.js" timestamp="1588842444378">
+        <mark key="[" line="148" column="223" />
+        <mark key="]" line="148" column="250" />
+        <mark key="." line="148" column="223" />
+        <mark key="^" line="148" column="206" />
+      </file>
+      <file name="/foo.bar" timestamp="1588842422694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588840107920">
+        <mark key="[" line="355" column="48" />
         <mark key="]" line="355" column="49" />
         <mark key="." line="355" column="49" />
         <mark key="^" line="355" column="47" />
@@ -110,14 +123,9 @@
         <mark key="^" line="57" column="20" />
         <mark key="." line="38" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/AsociacionDocumentoAdproCorrespondenciaComando.cs" timestamp="1588771689204" />
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion.Interfaces/Comandos/IEliminarDescriptorValorComando.cs" timestamp="1588773743777">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="81" />
-        <mark key="^" line="7" column="81" />
-        <mark key="." line="7" column="80" />
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1588840414264">
+        <mark key="'" line="38" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/IAsociacionDocumentoAdproCorrespondenciaComando.cs" timestamp="1588771711665" />
     </filemarks>
     <jumps>
       <jump line="100" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
@@ -153,65 +161,76 @@
       <jump line="8" column="55" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/IDesasociarDocumentoAdproCorrespondenciaComando.cs" />
       <jump line="11" column="62" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
       <jump line="55" column="27" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/Integraciones/DocumentosAdproController.cs" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+      <jump line="38" column="2" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
+      <jump line="110" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
+      <jump line="92" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
+      <jump line="148" column="107" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/ConfiguracionSvc.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Desarrollo</text>
+        <text>COR_SUCURSAL_UNICA</text>
+      </register>
+      <register name="k" type="4">
+        <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Desarrollo</text>
+        <text>COR_SUCURSAL_UNICA</text>
       </register>
       <register name="/" type="4">
-        <text>sesion</text>
+        <text>mac</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCEtLQ==</text>
+        <text>CORRESPONDENCIA_VERSION_API</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiIG5nLWlmPSJ2bS5Db25maWdTdWN1cnNhbCI+CiAgICAgICAgICAgIDxpbnB1dCBhdXRvY29tcGxldGFyLXNpbmNvIHR5cGU9InRleHQiIG5hbWU9InN1Y3Vyc2FsIiBpZD0idHh0U3VjdXJzYWwiIG5nLW1vZGVsPSJ2bS5zdWN1cnNhbCIgb3JpZ2VuLWRhdG9zPSJ2bS5EYXRvc1N1Y3Vyc2FsZXMoZmlsdHJvKSIKICAgICAgICAgICAgICAgICAgIGNhbXBvLW1vc3RyYXI9IlN1Y0Rlc2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHBsYWNlaG9sZGVyPSJTZWxlY2Npb25lIHN1Y3Vyc2FsIiBzZWxlY2Npb249InZtLnNlbGVjY2lvblN1Y3Vyc2FsKCkiCiAgICAgICAgICAgICAgICAgICByZXF1aXJlZCAvPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
+      <register name="2" type="4">
+        <text>Seleccione la sucursal que tomará el sistema para asignar el consecutivo al
+                momento de radicar, tenga en cuenta que sin importar la sucursal en que se radique el sistema siempre
+                asignará el consecutivo de la sucursal configurada.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">OgogICAgICAgIDwv</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPZGQK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPTwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgaHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0KfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJidG5HdWFyZGFyRGVzY3JpcHRvcmVzIiBydW5hdD0ic2VydmVyIiBzdHlsZT0iZmxvYXQ6IGxlZnQ7IG1hcmdpbi10b3A6IDVweDsgbWFyZ2luLWxlZnQ6IDJweCIgdHlwZT0iYnV0dG9uIiBvbmNsaWNrPSJHdWFyZGFyQ29udHJvbERlc2NyaXB0b3JlcygpOyIgdmFsdWU9Ikd1YXJkYXIgRGVzY3JpcHRvcmVzIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBPZGQK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sesion</last-search>
+      <last-search>mac</last-search>
       <last-offset />
-      <last-pattern>sesion</last-pattern>
+      <last-pattern>mac</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
