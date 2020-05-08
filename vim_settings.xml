@@ -18,6 +18,8 @@
         <entry>Documento</entry>
         <entry>sesion</entry>
         <entry>mac</entry>
+        <entry>·</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -61,7 +63,7 @@
       <file name="/SincoPlusDesarrollo.SGD.configuracion" timestamp="1588842805315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1588908899593">
+      <file name="/console" timestamp="1588917925575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" timestamp="1588842812059">
@@ -89,13 +91,14 @@
       <file name="/foo.bar" timestamp="1588842422694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" timestamp="1588909094397">
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="89" column="22" />
-        <mark key="^" line="91" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" timestamp="1588918700050">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="138" />
+        <mark key="." line="68" column="137" />
+        <mark key="^" line="68" column="138" />
       </file>
-      <file name="/console_1" timestamp="1588908899603">
+      <file name="/console_1" timestamp="1588917925585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588840107920">
@@ -158,64 +161,76 @@
       <jump line="110" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
       <jump line="92" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
       <jump line="148" column="107" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/ConfiguracionSvc.js" />
+      <jump line="86" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="66" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="68" column="110" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="85" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="71" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="112" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDU1NQ==</text>
+        <text>Ac</text>
       </register>
       <register name="k" type="4">
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDU1NQ==</text>
+        <text>Ac</text>
       </register>
       <register name="/" type="4">
-        <text>mac</text>
+        <text>#</text>
       </register>
       <register name="0" type="4">
-        <text>CORRESPONDENCIA_VERSION_API</text>
+        <text encoding="base64">JyBBY3RhOiAnIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiIG5nLWlmPSJ2bS5Db25maWdTdWN1cnNhbCI+CiAgICAgICAgICAgIDxpbnB1dCBhdXRvY29tcGxldGFyLXNpbmNvIHR5cGU9InRleHQiIG5hbWU9InN1Y3Vyc2FsIiBpZD0idHh0U3VjdXJzYWwiIG5nLW1vZGVsPSJ2bS5zdWN1cnNhbCIgb3JpZ2VuLWRhdG9zPSJ2bS5EYXRvc1N1Y3Vyc2FsZXMoZmlsdHJvKSIKICAgICAgICAgICAgICAgICAgIGNhbXBvLW1vc3RyYXI9IlN1Y0Rlc2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHBsYWNlaG9sZGVyPSJTZWxlY2Npb25lIHN1Y3Vyc2FsIiBzZWxlY2Npb249InZtLnNlbGVjY2lvblN1Y3Vyc2FsKCkiCiAgICAgICAgICAgICAgICAgICByZXF1aXJlZCAvPgogICAgICAgIDwvZGl2Pgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KwogICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">KwogICAg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IAogICAg</text>
+      </register>
+      <register name="4" type="4">
+        <text>CASE AC.AcTEstado
+        WHEN 0 THEN 'Generada'
+        WHEN 1 THEN 'Programada'
+        WHEN 2 THEN 'Aprobada'
+        ELSE 'Contabilizada'
+        END AS estado,
+    n</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiIG5nLWlmPSJ2bS5Db25maWdTdWN1cnNhbCI+CiAgICAgICAgICAgIDxpbnB1dCBhdXRvY29tcGxldGFyLXNpbmNvIHR5cGU9InRleHQiIG5hbWU9InN1Y3Vyc2FsIiBpZD0idHh0U3VjdXJzYWwiIG5nLW1vZGVsPSJ2bS5zdWN1cnNhbCIgb3JpZ2VuLWRhdG9zPSJ2bS5EYXRvc1N1Y3Vyc2FsZXMoZmlsdHJvKSIKICAgICAgICAgICAgICAgICAgIGNhbXBvLW1vc3RyYXI9IlN1Y0Rlc2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHBsYWNlaG9sZGVyPSJTZWxlY2Npb25lIHN1Y3Vyc2FsIiBzZWxlY2Npb249InZtLnNlbGVjY2lvblN1Y3Vyc2FsKCkiCiAgICAgICAgICAgICAgICAgICByZXF1aXJlZCAvPgogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="6" type="4">
         <text>Seleccione la sucursal que tomará el sistema para asignar el consecutivo al
                 momento de radicar, tenga en cuenta que sin importar la sucursal en que se radique el sistema siempre
                 asignará el consecutivo de la sucursal configurada.</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">OgogICAgICAgIDwv</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPZGQK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mac</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>mac</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
