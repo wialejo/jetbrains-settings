@@ -1,6 +1,28 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>Q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1571292122009">
@@ -31,6 +53,8 @@
       <jump line="100" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
       <jump line="48" column="53" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Aplicacion/ObtenerExpedientes/Contrato/ObtenerExpedientesContrato.cs" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="4">
         <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IElEb2N1bWVudG9BZHBybyBkb2N1bWVudG9BZHBybzsKCiAgICAgICAgcHVibGljIENyZWFyRXhwZWRpZW50ZUNvbnRyYXRvUG9yT2JyYVNlcnZpY2lvcyhJRG9jdW1lbnRvQWRwcm8gY29udHJhdG8pCiAgICAgICAgewogICAgICAgICAgICBkb2N1bWVudG9BZHBybyA9IGNvbnRyYXRvOwogICAgICAgIH0=</text>
@@ -45,28 +69,18 @@
         <text>;</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>Q</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
