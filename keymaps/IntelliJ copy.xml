@@ -1,0 +1,7 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
