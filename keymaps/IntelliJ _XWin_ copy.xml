@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ copy" parent="$default">
+<keymap version="1" name="IntelliJ (XWin) copy" parent="Default for XWin">
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl t" />
