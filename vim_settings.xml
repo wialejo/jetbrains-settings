@@ -1,6 +1,34 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>d</entry>
+        <entry>completar</entry>
+        <entry>comando</entry>
+        <entry>codi</entry>
+        <entry>List</entry>
+        <entry>Idescrip</entry>
+        <entry>};</entry>
+        <entry>()</entry>
+        <entry>inter</entry>
+        <entry>sesio</entry>
+        <entry>Documento</entry>
+        <entry>sesion</entry>
+        <entry>mac</entry>
+        <entry>·</entry>
+        <entry>#</entry>
+      </history-search>
+      <history-cmd>
+        <entry>Q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
@@ -11,10 +39,206 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/index.config.js" timestamp="1588840077994">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588840820041">
+        <mark key="e" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/configuracion [@127.0.0.1]" timestamp="1588842805315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/SincoPlusDesarrollo.SGD.configuracion" timestamp="1588842805315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console" timestamp="1588917925575">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" timestamp="1588842812059">
+        <mark key="'" line="92" column="4" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Core/Migrations/202004061726595_Automatic.cs" timestamp="1588842388310">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="58" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/CorrespondenciaAcciones.http" timestamp="1588776673214">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="103" column="5" />
+        <mark key="]" line="103" column="5" />
+        <mark key="." line="103" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/ConfiguracionSvc.js" timestamp="1588842444378">
+        <mark key="[" line="148" column="223" />
+        <mark key="]" line="148" column="250" />
+        <mark key="." line="148" column="223" />
+        <mark key="^" line="148" column="206" />
+      </file>
+      <file name="/foo.bar" timestamp="1588842422694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" timestamp="1588918700050">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="138" />
+        <mark key="." line="68" column="137" />
+        <mark key="^" line="68" column="138" />
+      </file>
+      <file name="/console_1" timestamp="1588917925585">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" timestamp="1588840107920">
+        <mark key="[" line="355" column="48" />
+        <mark key="]" line="355" column="49" />
+        <mark key="." line="355" column="49" />
+        <mark key="^" line="355" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/Integraciones/DocumentosAdproController.cs" timestamp="1588776285240">
+        <mark key="'" line="57" column="27" />
+        <mark key="[" line="38" column="94" />
+        <mark key="]" line="38" column="92" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="38" column="92" />
+      </file>
+      <file name="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" timestamp="1588840414264">
+        <mark key="'" line="38" column="2" />
+      </file>
+      <file name="/dummy.sql" timestamp="1588842805316">
+        <mark key="[" line="0" column="40" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="100" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+      <jump line="48" column="53" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Archivo.Aplicacion/ObtenerExpedientes/Contrato/ObtenerExpedientesContrato.cs" />
+      <jump line="48" column="0" filename="$USER_HOME$/Formacion/leetCodeChallenge/leetCodeChallenge.web/test/ValidParenthesisString.js" />
+      <jump line="355" column="58" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
+      <jump line="347" column="12" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
+      <jump line="369" column="16" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/App_Start/AutofacWebApiConfig.cs" />
+      <jump line="239" column="83" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/CorrespondenciaController.cs" />
+      <jump line="4" column="9" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="15" column="63" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="10" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="27" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" />
+      <jump line="45" column="23" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" />
+      <jump line="30" column="8" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Servicios/DescriptorConsultaServicio.cs" />
+      <jump line="9" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="15" column="50" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="14" column="65" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="6" column="11" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" />
+      <jump line="21" column="30" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/EliminarDescriptorValorComando.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Aplicacion/Comandos/IEliminarDescriptorValorComando.cs" />
+      <jump line="13" column="36" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="9" column="34" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/CompletarAsociacionComando.cs" />
+      <jump line="93" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/CorrespondenciaAcciones.http" />
+      <jump line="91" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/CorrespondenciaAcciones.http" />
+      <jump line="57" column="41" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/Integraciones/DocumentosAdproController.cs" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/Integraciones/DocumentosAdproController.cs" />
+      <jump line="8" column="55" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/IDesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="11" column="62" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Correspondencia.Integraciones/Adpro/Comandos/DesasociarDocumentoAdproCorrespondenciaComando.cs" />
+      <jump line="55" column="27" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Controllers/Correspondencia/Integraciones/DocumentosAdproController.cs" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+      <jump line="38" column="2" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Api/Web.config" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
+      <jump line="110" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
+      <jump line="92" column="4" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/TercerosPrioritarios/NotificacionesTercerosPrioritarios.html" />
+      <jump line="148" column="107" filename="$USER_HOME$/Projects/SincoSoft/SGD/SGD.Web/src/app/Configuracion/ConfiguracionSvc.js" />
+      <jump line="86" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="66" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="68" column="110" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="85" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="71" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+      <jump line="112" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/abdd15a2-4c25-41aa-ad25-e1527a6356a7/console.sql" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>Ac</text>
+      </register>
+      <register name="k" type="4">
+        <text>jjjj</text>
+      </register>
+      <register name="-" type="4">
+        <text>Ac</text>
+      </register>
+      <register name="/" type="4">
+        <text>#</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">JyBBY3RhOiAnIA==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">KwogICAgICAg</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">KwogICAg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IAogICAg</text>
+      </register>
+      <register name="4" type="4">
+        <text>CASE AC.AcTEstado
+        WHEN 0 THEN 'Generada'
+        WHEN 1 THEN 'Programada'
+        WHEN 2 THEN 'Aprobada'
+        ELSE 'Contabilizada'
+        END AS estado,
+    n</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiIG5nLWlmPSJ2bS5Db25maWdTdWN1cnNhbCI+CiAgICAgICAgICAgIDxpbnB1dCBhdXRvY29tcGxldGFyLXNpbmNvIHR5cGU9InRleHQiIG5hbWU9InN1Y3Vyc2FsIiBpZD0idHh0U3VjdXJzYWwiIG5nLW1vZGVsPSJ2bS5zdWN1cnNhbCIgb3JpZ2VuLWRhdG9zPSJ2bS5EYXRvc1N1Y3Vyc2FsZXMoZmlsdHJvKSIKICAgICAgICAgICAgICAgICAgIGNhbXBvLW1vc3RyYXI9IlN1Y0Rlc2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHBsYWNlaG9sZGVyPSJTZWxlY2Npb25lIHN1Y3Vyc2FsIiBzZWxlY2Npb249InZtLnNlbGVjY2lvblN1Y3Vyc2FsKCkiCiAgICAgICAgICAgICAgICAgICByZXF1aXJlZCAvPgogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>Seleccione la sucursal que tomará el sistema para asignar el consecutivo al
+                momento de radicar, tenga en cuenta que sin importar la sucursal en que se radique el sistema siempre
+                asignará el consecutivo de la sucursal configurada.</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">OgogICAgICAgIDwv</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1aWxkZXIuUmVnaXN0ZXJUeXBlPFBhcmFtZXRyb3NTZXNpb25EZXNhcnJvbGxvPigpCg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>#</last-search>
+      <last-offset />
+      <last-pattern>#</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
