@@ -1,13 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="UserController" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="cotizaciones" type="PLAIN_TEXT" />
-      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="UserController.php" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="cotizaciones" type="PLAIN_TEXT" />
       <mapping pattern="sda" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="UserController.php" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
